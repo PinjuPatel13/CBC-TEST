@@ -4,7 +4,18 @@
 This project is designed to [provide a brief description of your project's purpose and functionality].
 
 ## ✨ Features
-- [List of key features or functionalities of your project]
+📄 OCR Extraction: Reads text from CBC test report images using Optical Character Recognition (OCR).
+
+🏥 Medical Report Analysis: Extracts important parameters from CBC test reports (e.g., Hemoglobin, WBC count, RBC count).
+
+📊 Reference Range Comparison: Compares extracted values with standard reference ranges to highlight abnormalities.
+
+🩺 Health Insights: Provides an easy-to-understand summary of the CBC test results for users.
+
+🌐 Web Application: Interactive UI built using Streamlit or Flask to upload reports and view results.
+
+🛠 Machine Learning Integration (if applicable): Uses an ML model to predict potential health conditions based on CBC parameters.
+
 
 ## 📂 Project Structure
 ```
