@@ -1,7 +1,7 @@
 # 🧪 CBC-TEST Project
 
 ## 🚀 Overview
-This project is designed to [provide a brief description of your project's purpose and functionality].
+This project is designed to Medical Report Analysis.
 
 ## ✨ Features
 📄 OCR Extraction: Reads text from CBC test report images using Optical Character Recognition (OCR).
